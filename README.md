@@ -6,4 +6,4 @@
 
 
 # Screenshot
-![homepage](https://imgur.com/L99YEQs)
+![homepage](https://imgur.com/L99YEQs.png)
